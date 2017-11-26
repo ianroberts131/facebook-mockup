@@ -1,0 +1,123 @@
+#main-body {
+  background-color: #edf0f5;
+}
+
+#main-content-wrapper {
+  width: 970px;
+  margin: 0 auto;
+}
+
+#sales-pitch {
+  display: inline-block;
+  vertical-align:top;
+  width: 565px;
+  color: grey;
+}
+
+#sales-pitch-header {
+  margin-top: 75px;
+  margin-bottom: 40px;
+  font-size: 30px;
+  font-weight: 550;
+  color: black;
+}
+
+.sales-pitch-item {
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+.sales-pitch-bold-font {
+  color: black;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-right: 6px;
+}
+
+#signup-form-wrapper {
+  width: 400px;
+  display: inline-block;
+}
+
+#sign-up-header {
+  font-size: 38px;
+  font-weight: 550;
+}
+
+#free-callout {
+  font-size: 20px
+}
+
+.signup-form-item {
+  margin-bottom: 15px;
+}
+
+#first-name-input, #last-name-input {
+  display: inline-block;
+  width: 190px;
+}
+
+#last-name-input {
+  margin-left: 16px;
+}
+
+.birth-date-dropdown {
+  display: inline-block;
+  width: 65px;
+  margin: 0;
+  float: left;
+}
+
+#birthday-label {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+#month-sel, #day-sel, #year-sel {
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 0 !important;
+}
+
+#birthday-q {
+  display: inline-block;
+  margin-left: 10px;
+  width: 165px;
+  font-size: 11px;
+}
+
+#gender-selection {
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#terms {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 12px;
+  color: grey;
+  width: 350px;
+}
+
+#terms p {
+  padding-left: 0;
+}
+
+#signup-button {
+  width: 190px;
+  margin-bottom: 15px;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #69a74e;
+  color: white;
+}
+
+#fan-page-callout {
+  border-top: 1px solid rgb(221,223,226);
+  padding-top: 15px;
+  margin-bottom: 35px;
+  font-size: 16px;
+  color: grey;
+}
